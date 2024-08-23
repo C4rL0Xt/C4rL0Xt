@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-![Header](https://miro.medium.com/v2/resize:fit:638/1*iND_uCSZM-UMdl5v5XxijA.png)
+![Header](./github-header-image.png)
 
 I'm **Carlos**, a passionate and dedicated student from **Perú** 🇵🇪, always eager to learn and innovate in the world of technology.
 

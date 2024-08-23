@@ -53,7 +53,7 @@ I'm **Carlos**, a passionate and dedicated student from **Perú** 🇵🇪, alwa
 ---
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDI2ZWN4dXpoZnVnenpndm0wazdnMHQzYjZ2NW5qeXY0OG9ocm9kMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLbdgn0S36my2VfInK/100.webp" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffirefly-graphics.tumblr.com%2Fpost%2F628899584940376064%2Fhalloween-dividers-13&psig=AOvVaw0hlFlLnISc40SNWOUI4SXt&ust=1724461610090000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCiv6T2iYgDFQAAAAAdAAAAABAE" />
   <br />
   <strong>Thanks for stopping by! Let's build something amazing together.</strong>
   <br />

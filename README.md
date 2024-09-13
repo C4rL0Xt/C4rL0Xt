@@ -48,7 +48,7 @@ I'm **Carlos**, a passionate and dedicated student from **Perú** 🇵🇪, alwa
 
 > **"I’m always on the lookout for new challenges that push my boundaries. If there's a problem to solve, count me in!"**
 
-![Coding Animation](https://camo.githubusercontent.com/b81466b358952435e252c65fbdd538ecf1da40656056cef0a19c00b67f41d54e/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966)
+![Coding Animation](https://camo.githubusercontent.com/d854ad5661ff59af426bd66b7a8049a53361c4e5abd628875d1fae271d383ad6/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966)
 
 ---
 
